@@ -1,0 +1,23 @@
+{
+  "callType": "web call",
+  "callCost": 0.0,
+  "startTime": "2025-08-14T14:03:35.016583",
+  "duration": 0.0,
+  "customerNumber": "",
+  "transcript": [
+    {
+      "role": "assistant",
+      "content": "Good afternoon! This is Samantha from PropertyPro Real Estate. How can I assist you today?",
+      "timestamp": "2025-08-14T14:03:49.051114"
+    }
+  ],
+  "dialogueTranscript": "\nassistant: Good afternoon! This is Samantha from PropertyPro Real Estate. How can I assist you today?",
+  "sessionId": "0ebb71d2-195b-43f4-9691-0b1637f363d9",
+  "summary": "Call ended abruptly - no summary generated",
+  "sentiment": -1,
+  "promptTokens": 0,
+  "completionTokens": 0,
+  "sttDurationSeconds": 0.0,
+  "ttsDurationSeconds": 0.0,
+  "ttsCharacters": 0
+}
