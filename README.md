@@ -31,7 +31,7 @@ The following diagram summarizes the overall system:
  │  Prospect    │◄────►│ LiveKit Voice AI    │◄────►│  AssemblyAI (STT)   │
  └──────────────┘      │      Agent          │      └─────────────────────┘
                      │ (Direct Integration)  │
-                     │   with Firecrawl and  │      ┌─────────────────────┐
+                     │   with TRIEVEAPI and  │      ┌─────────────────────┐
                      │   Supabase API        │─────►│ PropertyPro Listings│
                      │                       │      └─────────────────────┘
                      │                       │      ┌─────────────────────┐
